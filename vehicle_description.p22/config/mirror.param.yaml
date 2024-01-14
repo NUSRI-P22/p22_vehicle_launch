@@ -1,0 +1,9 @@
+/**:
+  ros__parameters:
+  # no mirror in the vehicle
+    min_longitudinal_offset: 0
+    max_longitudinal_offset: 0
+    min_lateral_offset: 0
+    max_lateral_offset: 0
+    min_height_offset: 0
+    max_height_offset: 0
